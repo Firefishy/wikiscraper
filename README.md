@@ -23,29 +23,39 @@ Way to use:
 Files\folders decription:
 
 The main executable wrapper 
+
 -rwxr-xr-x  scraper.py 
 
 The function that posts an httprequest to wikipedia (actual scraper) 
+
 -rw-r--r--  wikiread.py
 
 Openstreetmap xml file parser 
+
 -rw-r--r--  osmparser.py
 
 Optionary additional source of information - external database handling script (complimentary to wikipedia) 
+
 -rw-r--r--  externaldb.py
 
 GPS coordinates conversion tool 
+
 -rw-r--r--  conversion.py
 
 Directories with input and output files 
+
 drwxr-xr-x  json_example_output 
+
 drwxr-xr-x  openstreetmap_example_data 
 
 Upload to Parse.com script 
+
 -rwxr-xr-x  UPLOADtoPARSE.py
 
 External database 
+
 -rw-r--r--  ./external_database/places.xml
 
 Readme 
+
 -rw-r--r--  README.md
