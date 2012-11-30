@@ -1,12 +1,10 @@
+##################################################################
+# Guided Area
 # wikiscraper
-
-===========
-
-Wikipedia scraper based upon openstreetmaps xml data
-
-Guided Area package
-
-===========
+# This directory contains Python scripts for wikipedia scraping
+# ver. 30 Nov 2012
+# author. Timur Bazhirov
+##################################################################
 
 Way to use:
 
@@ -16,11 +14,11 @@ Way to use:
 2a. Right now "places.xml" file is used as a backup database for scraper as it has much info about for UCB campus
 
 3. Use UPLOADtoPARSE to upload the content into parse.com
-
+total 216
 
 ===================================================================
 
-Files\folders decription:
+Here's the files\folders decription:
 
 # The main executable wrapper
 -rwxr-xr-x  scraper.py 
@@ -47,5 +45,6 @@ drwxr-xr-x  openstreetmap_example_data
 # External database
 -rw-r--r--  ./external_database/places.xml
 
-# Readme
+# Readmes
+rw-r--r--  readme.txt
 -rw-r--r--  README.md
