@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Wikiscraper
+# wikiscraper
 # Function that converts GPS coordinates in degrees into decimals #
 # Last updated: Nov 30, 2012
 
