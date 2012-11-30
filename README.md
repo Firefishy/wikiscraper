@@ -22,7 +22,7 @@ Way to use:
 
 Files\folders decription:
 
-The main executable wrapper
+The main executable wrapper \n
 -rwxr-xr-x  scraper.py 
 
 The function that posts an httprequest to wikipedia (actual scraper)
